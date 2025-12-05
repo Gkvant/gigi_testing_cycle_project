@@ -18,10 +18,9 @@ During the process, we prepared an:
 -	*Bug Report*.
   
 All the files are available in the attached link to Google Sheets:
-<div align="center">
 
-### [*Open The Project*](https://docs.google.com/spreadsheets/d/1tkcOIo3lRS_vi1qAaL55ZZlcMxddQ_H7hnTbrlpS7Ao/edit?usp=sharing)
-</div>
+### [*Open The Project*](https://docs.google.com/spreadsheets/d/1IHhi0LnOsEks7urOM8nkSaT7FwMl1u1g87QDMwfrLAI/edit?usp=sharing)
+
 
 
 The link to the tested website is included in the STP.
